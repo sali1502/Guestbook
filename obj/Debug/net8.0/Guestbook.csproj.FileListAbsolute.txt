@@ -1,0 +1,15 @@
+C:\Guestbook\bin\Debug\net8.0\Guestbook.exe
+C:\Guestbook\bin\Debug\net8.0\Guestbook.deps.json
+C:\Guestbook\bin\Debug\net8.0\Guestbook.runtimeconfig.json
+C:\Guestbook\bin\Debug\net8.0\Guestbook.dll
+C:\Guestbook\bin\Debug\net8.0\Guestbook.pdb
+C:\Guestbook\obj\Debug\net8.0\Guestbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guestbook\obj\Debug\net8.0\Guestbook.AssemblyInfoInputs.cache
+C:\Guestbook\obj\Debug\net8.0\Guestbook.AssemblyInfo.cs
+C:\Guestbook\obj\Debug\net8.0\Guestbook.csproj.CoreCompileInputs.cache
+C:\Guestbook\obj\Debug\net8.0\Guestbook.sourcelink.json
+C:\Guestbook\obj\Debug\net8.0\Guestbook.dll
+C:\Guestbook\obj\Debug\net8.0\refint\Guestbook.dll
+C:\Guestbook\obj\Debug\net8.0\Guestbook.pdb
+C:\Guestbook\obj\Debug\net8.0\Guestbook.genruntimeconfig.cache
+C:\Guestbook\obj\Debug\net8.0\ref\Guestbook.dll

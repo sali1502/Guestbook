@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using System.IO;
-using System.Runtime.CompilerServices;
 using System.Text.Json;
 
 namespace messages
@@ -19,7 +18,6 @@ namespace messages
                 messages = JsonSerializer.Deserialize<List<Message>>(jsonString)!;
             }
         }
-
 
         public Message addMessage(string text)
         {
